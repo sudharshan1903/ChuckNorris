@@ -1,0 +1,9 @@
+body{
+    background:#943df4;
+}
+.second-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
